@@ -16,7 +16,7 @@ Este desafio da Frontend Mentor foi uma ótima oportunidade para eu aperfeiçoar
 <br>
 
 <p align="center">
-  <img alt="preview card component solution" src="https://github.com/recioes/nft-project/issues/1#issue-1569109173" width="100%">
+  <img alt="preview card component solution" src= "https://github.com/recioes/nft-project/blob/62e45fa0002f4950e6ed59c398c549ca2eab3ea0/design/desktop-preview.jpg">
 </p>
 
 ## 🚀 Tecnologias
